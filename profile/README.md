@@ -12,7 +12,7 @@ Damper is a SEP-40 price oracle that sits between a pool and its upstream feeds.
 | --- | --- |
 | [damper-contracts](https://github.com/UbsOrg/damper-contracts) | Rust / Soroban guarded oracle: median over fresh feeds, per-asset anchor clamp, keeper-only anchor updates, and a replay of the YieldBlox exploit |
 | [damper-backend](https://github.com/UbsOrg/damper-backend) | TypeScript pool scanner and keeper: traces every Blend reserve to its price source, scores how cheaply it could be manipulated, and keeps anchors current |
-| [damper-frontend](https://github.com/UbsOrg/damper-frontend) | Pool risk dashboard (in design) |
+| [damper-frontend](https://github.com/UbsOrg/damper-frontend) | Pool risk dashboard: which pools could be drained through a manipulated price, how cheaply, and where each price comes from. [Live](https://ubsorg.github.io/damper-frontend/) |
 
 ### Contributing
 
