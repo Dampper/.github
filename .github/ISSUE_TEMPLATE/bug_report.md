@@ -18,4 +18,4 @@ Network (testnet, local), repository commit, and versions of Rust or Node, and `
 
 ## Security?
 
-If this could be exploited, do not post it here. Use the private reporting described in [SECURITY.md](https://github.com/UbsOrg/.github/blob/main/SECURITY.md).
+If this could be exploited, do not post it here. Use the private reporting described in [SECURITY.md](https://github.com/Dampper/.github/blob/main/SECURITY.md).

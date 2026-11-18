@@ -4,9 +4,9 @@ Thanks for looking. Each repository has its own CONTRIBUTING guide with setup an
 
 | Repository | Guide |
 | --- | --- |
-| damper-contracts | [CONTRIBUTING.md](https://github.com/UbsOrg/damper-contracts/blob/main/CONTRIBUTING.md) |
-| damper-backend | [CONTRIBUTING.md](https://github.com/UbsOrg/damper-backend/blob/main/CONTRIBUTING.md) |
-| damper-frontend | [CONTRIBUTING.md](https://github.com/UbsOrg/damper-frontend/blob/main/CONTRIBUTING.md) |
+| damper-contracts | [CONTRIBUTING.md](https://github.com/Dampper/damper-contracts/blob/main/CONTRIBUTING.md) |
+| damper-backend | [CONTRIBUTING.md](https://github.com/Dampper/damper-backend/blob/main/CONTRIBUTING.md) |
+| damper-frontend | [CONTRIBUTING.md](https://github.com/Dampper/damper-frontend/blob/main/CONTRIBUTING.md) |
 
 ## Picking something to work on
 
